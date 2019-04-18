@@ -18,7 +18,7 @@ setup(
  
     license = "GPL2",
     keywords = "Corsair link linux",
-    url = "https://github.com/",
+    url = "https://github.com/romanstingler/corsairlink-linux",
  
     install_requires=[
         'ioctl-opt>=1.2'
